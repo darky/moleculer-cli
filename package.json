@@ -16,7 +16,7 @@
     "minimatch": "^3.0.4",
     "mkdirp": "^0.5.1",
     "moleculer": "^0.13.8",
-    "moleculer-repl": "^0.5.7",
+    "moleculer-repl": "coolcodebob/moleculer-repl",
     "multimatch": "^3.0.0",
     "nats": "^1.2.2",
     "ora": "3.2.0",
